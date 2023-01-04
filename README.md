@@ -1,4 +1,4 @@
-# HomeWork1_Excel
+# Excel_PivotTable_and_Analysis
 It is a home_work for the first time.
 
 2 files. one is an excel file and another is a word file.
